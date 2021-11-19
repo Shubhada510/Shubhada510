@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Mern stack development
 - 💞️ I’m looking to collaborate on documentation, technical writing and web development
 - 📫 You can connect with me on LinkedIn and visit my website at https://shubhada510.github.io/Shubhada510/
+     I also love to share my knowledge and experiences in the form of blogs!!
+
+     You can read them at https://shubhadabeldar99.medium.com/
 
 <!---
 Shubhada510/Shubhada510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
